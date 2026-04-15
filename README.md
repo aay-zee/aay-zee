@@ -13,7 +13,7 @@
 ## About Me
  
 - 🔭 Currently building **SurgeAI** — an AI-powered product validation & marketing platform
-- 🌱 Mastering **Spring Boot & the Spring Ecosystem** (Spring MVC, Spring Security, Spring Data JPA)
+- 🤖 Mastering Agentic AI & LLM Orchestration (LangGraph, LangSmith, RAG Pipelines, pgvector)
 - 💬 Ask me about **Full Stack Development, FastAPI, NLP Pipelines, or System Design**
 - 🤝 Open Source Contributor at **Appwrite** (55k+ ⭐)
 - 📫 Reach me at **zafaraay@gmail.com**
