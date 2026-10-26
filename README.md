@@ -13,11 +13,9 @@
 
 ## About Me
 
-- 🔭 Currently building **SurgeAI** — an AI-powered product validation & marketing platform
 - 🤖 Mastering Agentic AI & LLM Orchestration (LangGraph, LangSmith, RAG Pipelines, pgvector)
 - 💬 Ask me about **Full Stack Development, FastAPI, NLP Pipelines, or System Design**
 - 🌐 Explored **IoT and connected systems** through ParkIQ, a smart parking project using ESP32, MQTT, and AI
-- 🤝 Open Source Contributor at **Appwrite** (55k+ ⭐)
 - 📫 Reach me at **zafaraay@gmail.com**
 - ⚡ Fun fact: I love solving real-world problems that affect real people
 
@@ -85,7 +83,7 @@
 
 ## 📌 Featured Projects
 
-### 🚀 [SurgeAI — AI-Powered Product Validation & Marketing Platform](https://github.com/aay-zee/surgeai)
+### 🚀 [SurgeAI — AI-Powered Product Validation and Marketing Platform](https://github.com/aay-zee/surgeai)
 > Scrapes Reddit, Twitter & Quora in real-time, runs NLP sentiment analysis & topic modelling, and generates an idea validation score for entrepreneurs.
 
 - **Tech:** Next.js · FastAPI · Celery · Redis · PyTorch · Docker
@@ -93,7 +91,7 @@
 
 ---
 
-### 🚗 ParkIQ — IoT Smart Parking & AI Prediction System
+### 🚗 [ParkIQ — IoT Smart Parking & AI Prediction System](https://github.com/aay-zee/ParkIQ)
 > A smart campus parking prototype combining ESP32 sensors, MQTT messaging, a React Native app, and machine learning to monitor parking availability and predict occupancy patterns.
 
 - **Tech:** ESP32 · MQTT · React Native · Firebase · FastAPI · Scikit-learn
@@ -101,7 +99,7 @@
 
 ---
 
-### 🛒 [ShelfSense — Full-Stack POS & Inventory Platform](https://github.com/aay-zee/shelfsense)
+### 🛒 [ShelfSense — Full-Stack POS and Inventory Platform](https://github.com/aay-zee/shelfsense)
 > A POS and inventory dashboard for independent grocery retailers, handling both weight-based and packaged goods — deployed to a live local store.
 
 - **Tech:** React · FastAPI · PostgreSQL · Tailwind CSS
